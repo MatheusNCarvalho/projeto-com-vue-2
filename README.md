@@ -1,8 +1,10 @@
- Estrutura em modulos de um projeto com Vue, vuex e vue-router
+# codecast2
 
-A Vue.js project
-Build Setup
+> A Vue.js project
 
+## Build Setup
+
+``` bash
 # install dependencies
 npm install
 
@@ -11,3 +13,6 @@ npm run dev
 
 # build for production with minification
 npm run build
+```
+
+For more information see the [docs for vueify](https://github.com/vuejs/vueify).
