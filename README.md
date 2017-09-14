@@ -1,4 +1,4 @@
-# Estrutura em modulos de um projeto com Vue, vuex e vue-router
+ Estrutura em modulos de um projeto com Vue, vuex e vue-router
 
 A Vue.js project
 Build Setup
