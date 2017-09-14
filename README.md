@@ -1,5 +1,4 @@
-# codecast2
-
+## Estrutura de um projeto com vue 2, vuex e vue-router
 > A Vue.js project
 
 ## Build Setup
